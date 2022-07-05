@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'claudiojuniops/ecommerce',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '61826192adc064ba620b4d6806a968483b200784',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'claudiojuniops/ecommerce' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '61826192adc064ba620b4d6806a968483b200784',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
